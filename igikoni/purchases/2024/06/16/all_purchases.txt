@@ -1,0 +1,8 @@
+{"type": "purchase", "name": "coca", "quantity": 6, "price": 100.0, "payment_method": "Cash", "debtor_name": null, "timestamp": "2024-06-16 07:57:12"}
+{"type": "purchase", "name": "coca", "quantity": 2, "price": 200.0, "payment_method": "Cash", "debtor_name": null, "timestamp": "2024-06-16 07:58:05"}
+{"type": "purchase", "name": "coca", "quantity": 2, "price": 200.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-16 08:04:47"}
+{"type": "purchase", "name": "inkwi", "quantity": 12, "price": 300.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-16 08:36:47"}
+{"type": "purchase", "name": "inkwi", "quantity": 10, "price": 320.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-16 08:39:20"}
+{"type": "purchase", "name": "amazi", "quantity": 12, "price": 100.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-16 08:42:04"}
+{"type": "purchase", "name": "egg", "quantity": 2, "price": 200.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-16 08:42:54"}
+{"type": "purchase", "name": "igi", "quantity": 12, "price": 100.0, "payment_method": "Cash", "debtor_name": null, "timestamp": "2024-06-16 09:13:47"}

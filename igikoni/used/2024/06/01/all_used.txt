@@ -1,0 +1,1 @@
+{"type": "used", "name": "ingwe", "quantity": 1, "price": 33.0, "payment_method": "Debtor", "timestamp": "2024-06-01 14:17:59"}

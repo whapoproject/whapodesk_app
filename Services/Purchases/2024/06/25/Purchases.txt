@@ -1,0 +1,1 @@
+{"type": "purchase", "name": "gin", "quantity": 7, "price": 1600.0, "selling_price": 2000.0, "payment_method": "momo", "debtor_name": null, "timestamp": "2024-06-25 09:15:31"}

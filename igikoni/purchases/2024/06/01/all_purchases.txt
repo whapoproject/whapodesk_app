@@ -1,0 +1,1 @@
+{"type": "purchase", "name": "ingwe", "quantity": 33, "price": 33.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-01 14:16:45"}

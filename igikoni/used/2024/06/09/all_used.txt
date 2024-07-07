@@ -1,0 +1,4 @@
+{"type": "used", "name": "afande", "quantity": 1, "price": 10000.0, "payment_method": "Debtor", "timestamp": "2024-06-09 11:37:30"}
+{"type": "used", "name": "afande", "quantity": 1, "price": 10000.0, "payment_method": "Debtor", "timestamp": "2024-06-09 11:38:03"}
+{"type": "used", "name": "igi", "quantity": 1, "price": 100.0, "payment_method": "Debtor", "timestamp": "2024-06-09 11:56:04"}
+{"type": "used", "name": "inyanya", "quantity": 1, "price": 100.0, "payment_method": "Debtor", "timestamp": "2024-06-09 12:04:43"}

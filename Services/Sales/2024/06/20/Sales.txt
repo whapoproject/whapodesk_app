@@ -1,0 +1,5 @@
+{"type": "sale", "name": "Panachi", "quantity": 1, "selling_price": 444.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-20 09:22:39"}
+{"type": "sale", "name": "Panachi", "quantity": 1, "selling_price": 444.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-20 09:23:01"}
+{"type": "sale", "name": "orange", "quantity": 3, "selling_price": 200.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-20 10:02:07"}
+{"type": "sale", "name": "orange", "quantity": 3, "selling_price": 200.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-20 10:03:32"}
+{"type": "sale", "name": "gin", "quantity": 5, "selling_price": 2000.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-20 10:47:38"}

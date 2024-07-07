@@ -1,0 +1,1 @@
+{"type": "sale", "name": "panachi", "quantity": 3, "selling_price": 1200.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-25 09:15:56"}

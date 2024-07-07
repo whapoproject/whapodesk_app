@@ -1,0 +1,1 @@
+{"type": "purchase", "name": "carot", "quantity": 10, "price": 1000.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-23 08:35:44"}

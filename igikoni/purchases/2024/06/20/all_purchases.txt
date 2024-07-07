@@ -1,0 +1,2 @@
+{"type": "purchase", "name": "cakes", "quantity": 12, "price": 83.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-20 08:38:17"}
+{"type": "purchase", "name": "ihene", "quantity": 5, "price": 2500.0, "payment_method": "Debtor", "debtor_name": "Ancilla", "timestamp": "2024-06-20 08:39:00"}

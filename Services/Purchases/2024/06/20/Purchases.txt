@@ -1,0 +1,5 @@
+{"type": "purchase", "name": "Fanta", "quantity": 24, "price": 600.0, "payment_method": "debt", "debtor_name": "Adella", "timestamp": "2024-06-20 08:27:08"}
+{"type": "purchase", "name": "Panachi", "quantity": 12, "price": 233.0, "selling_price": 444.0, "payment_method": "momo", "debtor_name": null, "timestamp": "2024-06-20 09:22:15"}
+{"type": "purchase", "name": "coca", "quantity": 222, "price": 2222.0, "selling_price": 5555.0, "payment_method": "momo", "debtor_name": null, "timestamp": "2024-06-20 09:23:31"}
+{"type": "purchase", "name": "Panachi", "quantity": 10, "price": 233.0, "selling_price": 2330.0, "payment_method": "momo", "debtor_name": null, "timestamp": "2024-06-20 09:24:31"}
+{"type": "purchase", "name": "gin", "quantity": 12, "price": 1600.0, "selling_price": 2000.0, "payment_method": "debt", "debtor_name": "Nyiroyo", "timestamp": "2024-06-20 10:47:01"}

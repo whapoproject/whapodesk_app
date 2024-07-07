@@ -1,0 +1,8 @@
+{"type": "used", "name": "igi", "quantity": 29, "price": 180.0, "payment_method": "Debtor", "timestamp": "2024-06-21 08:34:13"}
+{"type": "used", "name": "ihene", "quantity": 1, "price": 35000.0, "payment_method": "Cash", "timestamp": "2024-06-21 09:00:09"}
+{"type": "used", "name": "ihene", "quantity": 1, "price": 2500.0, "payment_method": "Debtor", "timestamp": "2024-06-21 09:00:09"}
+{"type": "used", "name": "ihene", "quantity": 3, "price": 2500.0, "payment_method": "Debtor", "timestamp": "2024-06-21 09:00:47"}
+{"type": "used", "name": "cakes", "quantity": 8, "price": 83.0, "payment_method": "Momo", "timestamp": "2024-06-21 09:03:28"}
+{"type": "used", "name": "inkoko", "quantity": 3, "price": 7000.0, "payment_method": "Momo", "timestamp": "2024-06-21 09:04:02"}
+{"type": "used", "name": "voka", "quantity": 8, "price": 100.0, "payment_method": "Debtor", "timestamp": "2024-06-21 09:04:40"}
+{"type": "used", "name": "ihene", "quantity": 1, "price": 2500.0, "payment_method": "Debtor", "timestamp": "2024-06-21 09:05:01"}

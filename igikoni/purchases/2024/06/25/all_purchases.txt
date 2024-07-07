@@ -1,0 +1,1 @@
+{"type": "purchase", "name": "tungurusumu", "quantity": 12, "price": 50.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-25 09:08:59"}

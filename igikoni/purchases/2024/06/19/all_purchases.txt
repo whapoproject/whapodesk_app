@@ -1,0 +1,3 @@
+{"type": "purchase", "name": "amata", "quantity": 1, "price": 600.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-19 09:13:07"}
+{"type": "purchase", "name": "ihene", "quantity": 2, "price": 35000.0, "payment_method": "Cash", "debtor_name": null, "timestamp": "2024-06-19 11:26:26"}
+{"type": "purchase", "name": "inkoko", "quantity": 3, "price": 7000.0, "payment_method": "Momo", "debtor_name": null, "timestamp": "2024-06-19 11:47:14"}

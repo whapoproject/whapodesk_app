@@ -1,0 +1,1 @@
+{"type": "purchase", "name": "primus", "quantity": 12, "price": 1000.0, "payment_method": "momo", "debtor_name": null, "timestamp": "2024-06-19 14:14:26"}

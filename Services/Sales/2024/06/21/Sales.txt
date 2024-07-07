@@ -1,0 +1,2 @@
+{"type": "sale", "name": "coca", "quantity": 216, "selling_price": 5555.0, "payment_method": "Momo", "credit_name": null, "timestamp": "2024-06-21 08:24:45"}
+{"type": "sale", "name": "Panachi", "quantity": 8, "selling_price": 444.0, "payment_method": "Cash", "credit_name": null, "timestamp": "2024-06-21 08:50:12"}
